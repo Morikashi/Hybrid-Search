@@ -37,7 +37,7 @@ Before running the notebook, ensure you have the following packages installed:
 ## 📝 Step-by-Step Guide
 
 ### 1. **Index Creation**
-   - **Creating Pinecone Index**: The first step involves making an index in Pinecone. You should sign up in [pinecone](www.pinecone.io) to create an account. You will be able to set up your index manually as well checking the vectors created and many more options. Don't hesitate to do that FOR FREE. With Pinecone, we create an index to store our embeddings. The index is optimized for fast and accurate retrieval of vectors.
+   - **Creating Pinecone Index**: The first step involves making an index in Pinecone. You should sign up at [pinecone](www.pinecone.io) to create an account. You will be able to set up your index manually as well as check the vectors created and many more options. Don't hesitate to do that FOR FREE. With Pinecone, we create an index to store our embeddings. The index is optimized for fast and accurate retrieval of vectors.
   - **Why**: Pinecone's indexing capabilities are essential for scaling vector-based search operations and ensuring quick retrieval times.
 
 ### 2. **Vectorization**
